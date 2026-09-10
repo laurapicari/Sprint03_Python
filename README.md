@@ -5,7 +5,7 @@
 Sistema de gerenciamento inteligente de recarga de veículos elétricos, com integração de energia renovável (solar + armazenamento) e automação da fonte de energia utilizada em cada sessão.
 
 ## Equipe
--Beatriz Silva Araujo - RM 570619
+- Beatriz Silva Araujo - RM 570619
 - Gabriela Caetano Campos — RM 572738
 - João Victor Montalvão — RM 571630
 - Laura Pícari dos Santos Costa — RM 569914
