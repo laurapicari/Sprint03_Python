@@ -12,6 +12,6 @@ Sistema de gerenciamento inteligente de recarga de veículos elétricos, com int
 - Lucas Neves Malaquias — RM 572679
 ***
 
-### A decisão de fonte segue uma tabela-verdade com três variáveis: geração solar suficiente, bateria acima do mínimo e horário de pico — priorizando sempre a fonte mais sustentável disponível.
-### **Simulação em software** antes de qualquer investimento físico, reduzindo custo e risco do protótipo.
-### A demonstração integrada gera `sessoes_recarga.csv` com energia, fonte utilizada, comando de automação, custo e CO₂ evitado por sessão, além de um dashboard consolidado (energia total, energia solar, receita, CO₂ evitado, nível da bateria).
+## A decisão de fonte segue uma tabela-verdade com três variáveis: geração solar suficiente, bateria acima do mínimo e horário de pico — priorizando sempre a fonte mais sustentável disponível.
+## **Simulação em software** antes de qualquer investimento físico, reduzindo custo e risco do protótipo.
+## A demonstração integrada gera `sessoes_recarga.csv` com energia, fonte utilizada, comando de automação, custo e CO₂ evitado por sessão, além de um dashboard consolidado (energia total, energia solar, receita, CO₂ evitado, nível da bateria).
