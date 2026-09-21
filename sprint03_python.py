@@ -214,8 +214,8 @@ def iniciar_recarga():
         "co2": co2,
         "duracao": duracao,
         "data": datetime.now(),
-        "fonte": fonte,                  # NOVO NA SPRINT 3
-        "comando_automacao": comando,    # NOVO NA SPRINT 3
+        "fonte": fonte,                  
+        "comando_automacao": comando,   
     }
 
     sessoes.append(sessao)
@@ -311,7 +311,7 @@ def demo_integrado_sprint3(n_veiculos=5):
 
     hora = datetime.now().hour
     energia_solar_kw = assistente_ia()
-    solar_restante_kw = energia_solar_kw  # NOVO: geração solar é consumida ao longo da rodada
+    solar_restante_kw = energia_solar_kw 
 
     baterias_veiculos = [round(random.uniform(10, 90), 1) for _ in range(n_veiculos)]
     pesos = [max(1, 100 - b) for b in baterias_veiculos]
